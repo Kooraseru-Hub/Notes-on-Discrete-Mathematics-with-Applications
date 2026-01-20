@@ -1,5 +1,5 @@
 # Summary on Discrete Mathematics with Applications
-Personal study notes and simplifications for Discrete Mathematics with Applications, organized by topic and aligned with lecture material and textbook definitions.
+Study notes and simplifications for Discrete Mathematics with Applications, organized by topic and aligned with lecture material and textbook definitions.
 
 ## Chapters
 - **[Chapter #1: Speaking Mathematically](chapter-01-speaking-mathematically)** (1.4 The Language of Graphs not covered)
@@ -8,6 +8,9 @@ Personal study notes and simplifications for Discrete Mathematics with Applicati
   - [1.3: The Language of Relations and Functions](chapter-01-speaking-mathematically/1-3-The-language-of-relations-and-functions/)
 - **[Chapter #2: The Logic of Compound Statements](chapter-02-the-logic-of-compound-statements)**
   - [2.1: Logical Form and Logical Equivalence](chapter-02-the-logic-of-compound-statements/2-1-logical-form-and-logical-equivalence/)
+
+## Regarding Homeworks
+This does **NOT** cover answers inside the homework due as that would be a violation of academic integrity. Please don't ask for me to include or go over Excercise Sets, or homeworks; instead, please go to the associated TA's (this is just a semi-public note page).
 
 ## Quick Notice
 This mostly goes over material covered in the class whilst following guides from the eCampus textbook by Susanna S. Epp, with all explanations paraphrased or rewritten in the author’s own words.
