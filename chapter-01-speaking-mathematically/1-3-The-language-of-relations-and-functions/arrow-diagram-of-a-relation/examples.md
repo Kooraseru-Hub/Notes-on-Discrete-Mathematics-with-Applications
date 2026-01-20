@@ -34,7 +34,3 @@ Let `A = {1, 2, 3}` and `B = {1, 3, 5}`. Define two relations from `A` to `B`:
 * Multiple arrows can originate from the same domain element.
 * Some elements of the domain may have no arrows at all.
 * Arrow diagrams provide an immediate **visual summary** of which elements are related under the relation.
-
-**Solution Diagram:**
-
-![Arrow Diagram for Relations S and T](solution-diagram.png)
