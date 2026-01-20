@@ -8,12 +8,13 @@ For a number `b` to be an additive inverse of a number `a`, it means:
 
 ### Universal Existential Statement
 
-A universal existential statement has two components:
-
-1. **Universal component**: The statement’s first part applies to all objects of a given type.
-2. **Existential component**: The statement’s second part asserts the existence of something for each object.
+> A universal existential statement has two components:
+>
+> 1. **Universal component**: The statement's first part applies to all objects of a given type.
+> 2. **Existential component**: The statement's second part asserts the existence of something for each object.
 
 **Example**
+
 `Every real number has an additive inverse.`
 
 * Universal aspect: “Every real number”

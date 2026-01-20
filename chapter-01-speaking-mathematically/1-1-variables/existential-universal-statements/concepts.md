@@ -2,12 +2,13 @@
 
 ### Existential Universal Statement
 
-An existential universal statement has two components:
-
-1. **Existential component**: The statement asserts that a certain object exists.
-2. **Universal component**: The statement asserts that the object satisfies a property for all things of a certain kind.
+> An existential universal statement has two components:
+>
+> 1. **Existential component**: The statement asserts that a certain object exists.
+> 2. **Universal component**: The statement asserts that the object satisfies a property for all things of a certain kind.
 
 **Example**
+
 `There is a positive integer that is less than or equal to every positive integer.`
 
 * Existential aspect: “There is a positive integer”

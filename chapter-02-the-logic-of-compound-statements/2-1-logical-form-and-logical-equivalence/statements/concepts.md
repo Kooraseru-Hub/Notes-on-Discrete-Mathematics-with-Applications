@@ -1,0 +1,5 @@
+## Concepts
+
+Formal logic aims to model careful human reasoning while removing ambiguity and inconsistency. To achieve this, logic introduces precise rules about what kinds of sentences can be analyzed logically. Not every sentence encountered in mathematics or everyday language is suitable for logical evaluation. Logic focuses only on sentences whose truth value is fixed and unambiguous.
+
+As with any mathematical system, logic must begin with a small collection of basic terms that are not defined using other concepts. In propositional logic, the ideas of **sentence**, **true**, and **false** are taken as primitive. All other logical concepts are built on top of these foundations. Understanding which sentences qualify for logical analysis is therefore essential before studying more complex logical structures.
